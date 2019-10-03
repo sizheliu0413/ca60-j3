@@ -298,11 +298,11 @@ a{
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
-.firstpage p {
+.diary p {
     width: 600px;
     font-size: 18px;
     margin-left: 100px;
-    margin-top: -20px;
+    margin-top: 20px;
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
